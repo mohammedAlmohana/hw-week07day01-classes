@@ -32,7 +32,7 @@ runner.totalDistance() // 50 meters
 runner.longestDistance() // 30 meters
 
 runner.averageSpeed() // 0.3 meters per second
-```
+u```
 
 
 
